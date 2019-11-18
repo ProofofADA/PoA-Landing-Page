@@ -1,3 +1,5 @@
+![](https://github.com/ProofofADA/Proof-of-ADA/blob/master/PoA-better.PNG)
+
 ## Proof of ADA: Commissionless Staking on the Cardano Blockchain
 
 You can use the [editor on GitHub](https://github.com/ProofofADA/PoA-Landing-Page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
