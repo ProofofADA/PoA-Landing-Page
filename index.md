@@ -15,4 +15,4 @@ proofofada@gmail.com
 
 ### Proof of ADA Wiki ### 
 
-[Check the Wiki]()
+[Check the Wiki](https://github.com/ProofofADA/Proof-of-ADA/wiki)
