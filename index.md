@@ -7,9 +7,7 @@
 00a42ea66e2491c9433d20f2025474392820fb124cb9a34ffbd8360bd1b0520c
 ```
 ### Staking Pool Commission ###
-```
-0.75% (0.0075 fractional) --  flat fee
-```
+![](https://github.com/ProofofADA/proof-of-ada/blob/master/reward_function%20(5).png)
 ### Contact ### 
 ```
 proofofada@gmail.com
