@@ -1,4 +1,4 @@
-![](https://github.com/ProofofADA/Proof-of-ADA/blob/master/PoA-better.PNG)
+![](https://github.com/ProofofADA/Proof-of-ADA/blob/master/PoA-New.PNG)
 
 ------
 
