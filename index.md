@@ -80,6 +80,8 @@ Zero commission staking is available to larger wallets. Depending on the size of
 
 ## Stake Pool Commission Fee Function ##
 
+<img src=https://github.com/ProofofADA/proof-of-ada/blob/master/stake_function.PNG alt=alt text>
+
 ![](https://github.com/ProofofADA/proof-of-ada/blob/master/stake_function.PNG)
 
 ![](https://github.com/ProofofADA/proof-of-ada/blob/master/variable_explain.PNG)
