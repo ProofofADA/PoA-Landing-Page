@@ -50,7 +50,7 @@ proofofada@gmail.com
 
 ### Prices go up. Commissions go down ###
 
-Staking rewards are paid out at the protocol level on the Cardano blockchain. This means stake pools must select a static stake commission (\%) in advance. While stake pools can always update their staking fees over time, ***Proof of ADA*** presents a price- and stake-dependent model for reducing stake fees as ADA increases in price. Staking with ***Proof of ADA*** offers an automated commission reduction schedule that users know before staking with ***Proof of ADA***. 
+Staking rewards are paid out at the protocol level on the Cardano blockchain. This means stake pools must select a static stake commission (%) in advance. While stake pools can always update their staking fees over time, ***Proof of ADA*** presents a price- and stake-dependent model for reducing stake fees as ADA increases in price. Staking with ***Proof of ADA*** offers an automated commission reduction schedule that users know before staking with ***Proof of ADA***. 
 
 ---
 
