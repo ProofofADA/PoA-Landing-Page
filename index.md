@@ -6,6 +6,8 @@
 
 *Prices Go Up. Commissions Go Down* 
 
+---
+
 # General Information # 
 
 ## Stake Pool Commission ##
@@ -34,6 +36,8 @@ POA
 ```
 proofofada@gmail.com
 ```
+
+---
 
 # Staking Model #
 
@@ -80,23 +84,27 @@ Zero commission staking is available to larger wallets. Depending on the size of
 
 ![](https://github.com/ProofofADA/proof-of-ada/blob/master/variable_explain.PNG)
 
+---
+
 # Node SysOps #
 
-## <img src=https://github.com/ProofofADA/proof-of-ada/blob/master/secure.png alt=alt text width=250 height=250> Firewalls and Encryption ##
+## Firewalls and Encryption ##
 
 While the staking reward distributions on the Cardano blockchain occur at the protocol level, ***Proof of ADA*** assumes temporary custody of some users' staking rewards to be given back. As such, ***Proof of ADA*** nodes are highly secure to prevent fraudulent activity at the node level.
 
-## <img src=https://github.com/ProofofADA/proof-of-ada/blob/master/diagnose.png alt=alt text width=250 height=280> Automated Health Status Checks ##
+## Automated Health Status Checks ##
 
 Nodes can crash; things happen. Without properly timed automated health status checks, nodes can crash and remain crashed indefinitely. Crashed nodes will lose sync with the Cardano blockchain and will therefore not be able to generate new blocks. Nodes are compensated for producing new blocks. If a node is crashed and cannot produce a new block, no staking rewards are paid to the node. ***Proof of ADA*** Nodes perform timely health status checks constantly to identify and rectify failures as quickly as possible. 
 
-## <img src=https://github.com/ProofofADA/proof-of-ada/blob/master/uptime.png alt=alt text width=425 height=250> Automated Software Release Pulls ## 
+## Automated Software Release Pulls ## 
 
 IOHK will continue to improve the Cardano blockchain over time. Nodes wanting to stay up to date on the latest software release will need to be able to know a new software release is available, download the updates, compile the updates, and begin running the new software release. In certain cases, software upgrades may be required for a node to continue to be in compliance with the network constraints concerning eligibility to produce the next block. Nodes that do not upgrade the software in these cases are likely relegated to a status that does not allow them to produce new blocks and earn rewards. ***Proof of ADA*** Nodes regularly ping the software repositories looking for new software releases. 
 
-## <img src=https://github.com/ProofofADA/proof-of-ada/blob/master/backups.png alt=alt text width=350 height=200> Server Redundancy ##
+## Server Redundancy ##
 
 Cloud service providers can experience temporary site-specific failures. Creating a fallback (redundant) server deployment process guarantees site-specific failures will not affect system performance. ***Proof of ADA*** Nodes have backup server deployment functionality so the node remains to run, even when the host site goes down. 
+
+---
 
 # Who We Are #
 
